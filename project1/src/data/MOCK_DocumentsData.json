@@ -1,0 +1,225 @@
+{
+    "Data": [
+        {
+            "Header" : "main",
+            "Content" : [
+                {
+                    "title": "Why Many Police Traffic Stops Turn Deadly",
+                    "url": "https://www.nytimes.com/2021/10/31/us/police-traffic-stops-killings.html"
+                },
+                {
+                    "title": "Rewinding Video of Shootings Often Reveals Police Errors",
+                    "url": "https://www.nytimes.com/interactive/2021/10/30/video/police-traffic-stops-danger-video.html"
+                }
+            ]
+        },
+        {
+            "Header" : "world",
+            "Content" : [
+                {
+                    "title": "Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord",
+                    "url": "https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html"
+                },
+                {
+                    "title": "Japan’s Election Was Closer Than Usual, Even Though Party in Power Has Hit Snooze",
+                    "url": "https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html"
+                }
+            ]
+        },
+        {
+            "Header" : "us",
+            "Content" : [
+                {
+                    "title": "Four Stand-Up Specials That Showcase Hard-Working Comics",
+                    "url": "https://www.nytimes.com/2021/10/29/arts/television/four-stand-up-specials-to-watch.html"
+                },
+                {
+                    "title": "One Dead After Dozens Try to Swim Around San Diego Border Fence",
+                    "url": "https://www.nytimes.com/2021/10/31/us/migrants-swim-border.html"
+                }
+            ]
+        },
+        {
+            "Header" : "politics",
+            "Content" : [
+                {
+                    "title": "Why Paid Family Leave’s Demise This Time Could Fuel It Later",
+                    "url": "https://www.nytimes.com/2021/10/31/us/politics/paid-family-leave.html"
+                },
+                {
+                    "title": "In the Final Days Before Virginia Votes, Both Sides Claim Momentum",
+                    "url": "https://www.nytimes.com/2021/10/31/us/politics/virginia-governors-race-youngkin-mcauliffe.html"
+                }
+            ]
+        },
+        {
+            "Header" : "ny",
+            "Content" : [
+                {
+                    "title": "Drug Boss Alpo Martinez Killed in Harlem",
+                    "url": "https://www.nytimes.com/2021/10/31/nyregion/alpo-martinez-dead-harlem.html"
+                },
+                {
+                    "title": "The Places in New York City Where Republicans Still Stand a Chance",
+                    "url": "https://www.nytimes.com/2021/10/31/nyregion/city-council-nyc-election.html"
+                }
+            ]
+        },
+        {
+            "Header" : "business",
+            "Content" : [
+                {
+                    "title": "China’s Popular Electric Vehicles Have Put Europe’s Automakers on Notice",
+                    "url": "https://www.nytimes.com/2021/10/31/business/electric-cars-china-europe.html"
+                },
+                {
+                    "title": "Angling for a Merry ‘Fishmas’ Despite Global Shipping Delays",
+                    "url": "https://www.nytimes.com/2021/10/31/business/economy/global-shipping-delays-shortages.html"
+                }
+            ]
+        },
+        {
+            "Header" : "opinion",
+            "Content" : [
+                {
+                    "title": "How I Became a Science Experiment",
+                    "url": "https://www.nytimes.com/2021/10/30/opinion/lyme-disease-science.html"
+                },
+                {
+                    "title": "Not Everyone in New York Wanted the Coronavirus to Lose",
+                    "url": "https://www.nytimes.com/2021/10/31/opinion/vaccine-disinformation-new-york-city.html"
+                }
+            ]
+        },
+        {
+            "Header" : "technology",
+            "Content" : [
+                {
+                    "title": "The Metaverse Is Mark Zuckerberg’s Escape Hatch",
+                    "url": "https://www.nytimes.com/2021/10/29/technology/meta-facebook-zuckerberg.html"
+                },
+                {
+                    "title": "Facebook Renames Itself Meta",
+                    "url": "https://www.nytimes.com/2021/10/28/technology/facebook-meta-name-change.html"
+                }
+            ]
+        },
+        {
+            "Header" : "science",
+            "Content" : [
+                {
+                    "title": "When the Soviets Set Off the Biggest Nuclear Bomb, J.F.K. Didn’t Flinch",
+                    "url": "https://www.nytimes.com/2021/10/30/science/tsar-bomba-60.html"
+                },
+                {
+                    "title": "Why Strawberries Turn a Ghostly Shade of White",
+                    "url": "https://www.nytimes.com/2021/10/29/science/strawberries-evolution-genetics-white.html"
+                }
+            ]
+        },
+        {
+            "Header" : "health",
+            "Content" : [
+                {
+                    "title": "Covid Shots Are a Go for Children, but Parents Are Reluctant to Consent",
+                    "url": "https://www.nytimes.com/2021/10/30/health/covid-vaccine-kids-parents.html"
+                },
+                {
+                    "title": "Why Aren’t More People Comparison Shopping for Health Plans?",
+                    "url": "https://www.nytimes.com/2021/10/30/health/open-enrollment-health-insurance-medicare.html"
+                }
+            ]
+        },
+        {
+            "Header" : "sports",
+            "Content" : [
+                {
+                    "title": "World Series Live Updates: Houston Comes Through With the Bases Loaded",
+                    "url": "https://www.nytimes.comhttps://www.nytimes.com/live/2021/10/31/sports/braves-astros-score"
+                },
+                {
+                    "title": "What We Learned From Week 8 in the N.F.L.",
+                    "url": "https://www.nytimes.com/2021/10/31/sports/football/nfl-week-8-scores.html"
+                }
+            ]
+        },
+        {
+            "Header" : "arts",
+            "Content" : [
+                {
+                    "title": "Oxford’s 2021 Word of the Year Is a Shot in the Arm",
+                    "url": "https://www.nytimes.com/2021/10/31/arts/vax-oxford-word-year.html"
+                },
+                {
+                    "title": "A Filmmaking Life Gets a Sequel",
+                    "url": "https://www.nytimes.com/2021/10/29/movies/joanna-hogg-the-souvenir.html"
+                }
+            ]
+        },
+        {
+            "Header" : "books",
+            "Content" : [
+                {
+                    "title": "Emily Ratajkowski Is a Work in Progress",
+                    "url": "https://www.nytimes.com/2021/10/29/books/emily-ratajkowski-my-body.html"
+                },
+                {
+                    "title": "For His Father and His Son, Ai Weiwei Is Determined to Leave a Trace",
+                    "url": "https://www.nytimes.com/2021/10/30/books/review/1000-years-of-joys-and-sorrows-ai-weiwei.html"
+                }
+            ]
+        },
+        {
+            "Header" : "style",
+            "Content" : [
+                {
+                    "title": "They Wrote Their Love Story While Scripting Others",
+                    "url": "https://www.nytimes.com/2021/10/29/style/bill-prady-jessica-queller-wedding.html"
+                },
+                {
+                    "title": "Why the Vampire Myth Won’t Die",
+                    "url": "https://www.nytimes.com/2021/10/30/style/vampires-coronavirus.html"
+                }
+            ]
+        },
+        {
+            "Header" : "t-magazine",
+            "Content" : [
+                {
+                    "title": "The T List: Five Things We Recommend This Week",
+                    "url": "https://www.nytimes.com/2021/10/28/t-magazine/salon-cosa-campbell-rey.html"
+                },
+                {
+                    "title": "An Artist’s Life in Objects, From a Warhol Print to a Postmodern Lamp",
+                    "url": "https://www.nytimes.com/2021/10/27/t-magazine/peter-halley-design-art-collection.html"
+                }
+            ]
+        },
+        {
+            "Header" : "travel",
+            "Content" : [
+                {
+                    "title": "Taking the Loop Less Traveled on the Oregon Coast",
+                    "url": "https://www.nytimes.com/2021/10/28/travel/oregon-coast-three-capes-loop.html"
+                },
+                {
+                    "title": "Can California Tourism Survive Climate Change?",
+                    "url": "https://www.nytimes.com/2021/10/26/travel/california-tourism-climate-change.html"
+                }
+            ]
+        },
+        {
+            "Header" : "magazine",
+            "Content" : [
+                {
+                    "title": "Kyle Rittenhouse and the New Era of Political Violence",
+                    "url": "https://www.nytimes.com/2021/10/26/magazine/kyle-rittenhouse-kenosha-wisconsin.html"
+                },
+                {
+                    "title": "How Corruption Ruined Lebanon",
+                    "url": "https://www.nytimes.com/2021/10/28/magazine/corruption-lebanon.html"
+                }
+            ]
+        }
+    ]
+}
